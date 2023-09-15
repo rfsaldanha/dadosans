@@ -1,9 +1,11 @@
 Package: dadosans
 Title: Fetch Data From The Brazilian ANS
 Version: 0.0.0.9000
-Authors@R: 
+Authors@R: c(
     person("Raphael", "Saldanha", , "raphael.de-freitas-saldanha@inria.fr", role = c("aut", "cre"),
-           comment = c(ORCID = "0000-0003-0652-8466"))
+           comment = c(ORCID = "0000-0003-0652-8466")),
+    person("Diego", "Xavier", , "diego.xavier@icict.fiocruz.br", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0001-5259-7732")))       
 Description: Fetch data from the Brazilian National Agency of Supplementar Health (ANS).
 License: MIT + file LICENSE
 Encoding: UTF-8
