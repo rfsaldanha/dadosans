@@ -4,7 +4,6 @@ Fetch Data From The Brazilian ANS
 
 ## Instalattion
 
-```{r eval=FALSE}
-# install.packages("remotes")
+```{# install.packages("remotes")}
 remotes::install_github("rfsaldanha/dadosans")
 ```
